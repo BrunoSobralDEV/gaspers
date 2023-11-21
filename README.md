@@ -2,7 +2,7 @@
 <h1 align="center">WebSite Gaspers.ai</h1>
 
 ---
-<img align="right" src="" alt="printscreen-mobile-mac">
+<img align="right" src="https://github.com/BrunoSobralDEV/gaspers/blob/main/public/images/gaspers-project.png" alt="printscreen-mobile-mac">
 
 
 # :pushpin: Table of Contents
@@ -75,7 +75,7 @@ SSH is a secure protocol, but you need to register a key ssh in your github befo
 
 <h4>Figma:</h4>
 
-[![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=ffffff)](https://www.figma.com/file/j66ay1T6m33aMDyqxyoiVF/Gest%C3%A3o-Financeira?node-id=0%3A1)
+[![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=ffffff)](https://www.figma.com/file/qEUxA1u40MXFXPfyFOTkbE/gaspers.io?type=design&node-id=60%3A2&mode=design&t=9Sx2GtLBk5QGcsr3-1)
 
 ---
 
@@ -104,7 +104,7 @@ SSH is a secure protocol, but you need to register a key ssh in your github befo
 
 <h1 id="contributing">:handshake: Contributing</h1>
 
-Contributions, issues and feature requests are welcome! Feel free to **file a new issue** on the [Project-DevForTech](https://github.com/wesleysan7os/project-devfortech/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
+Contributions, issues and feature requests are welcome! Feel free to **file a new issue** on the [Project-gaspers](https://github.com/BrunoSobralDEV/gaspers/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
 
 ---
 
