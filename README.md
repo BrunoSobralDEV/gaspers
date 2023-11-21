@@ -1,36 +1,111 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<h1 align="center">WebSite Gaspers.ai</h1>
 
-First, run the development server:
+---
+<img align="right" src="" alt="printscreen-mobile-mac">
+
+
+# :pushpin: Table of Contents
+
+- :house: [About](#about)
+- :dart: [Installation](#installation)
+  - :gear: [Install dependencies](#install_dependencies)
+  - :rocket: [Getting Started](#getting_started)
+- :computer: [Techs](#techs)
+- :bust_in_silhouette: [Author](#author)
+- :handshake: [Contributing](#contributing)
+- :scroll: [License](#license)
+
+---
+
+<h1 id="about">:house: About</h1>
+
+Website recreated with the technologies required for the position of Javascript Developer at Gaspers.ai. 
+
+Reference: [Gaspers.ai](https://gaspers.ai/)
+
+---
+
+<h1 id="installation">:dart: Installation</h1>
+
+**First you need to install:**
+
+- [Node.js](https://pt-br.nodejs.org/) (required)
+- [Npm](https://www.npmjs.com/) (required)
+
+
+  **Then in order, clone the project.**
+
+By HTTPS, running this command:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+  git clone https://github.com/BrunoSobralDEV/gaspers.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Or by ssh, running this command:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+  git@github.com:BrunoSobralDEV/gaspers.git
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+SSH is a secure protocol, but you need to register a key ssh in your github before.
 
-## Learn More
+<h2 id="install_dependencies">:hammer_and_wrench: Install dependencies</h2>
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+  npm install
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<h2 id="getting_started">:rocket: Getting Started</h2>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```bash
+  npm run dev
+```
+---
 
-## Deploy on Vercel
+<h1 id="techs">:computer: Techs</h1>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=ffffff)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h2>Organization</h2>
+
+<h4>Figma:</h4>
+
+[![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=ffffff)](https://www.figma.com/file/j66ay1T6m33aMDyqxyoiVF/Gest%C3%A3o-Financeira?node-id=0%3A1)
+
+---
+
+<h1 id="author">:bust_in_silhouette: Author</h1>
+
+<table>
+	<tr>
+    <td align="center">
+      <a href="https://github.com/BrunoSobralDev">
+        <img
+          width="100px"
+          height="auto"
+          src="https://github.com/BrunoSobralDev.png"
+          alt="Foto de Bruno Sobral"
+        />
+        <br />
+        <sub>
+          <b>Bruno Sobral</b>
+        </sub>
+      </a>
+		</td>
+  </tr>	
+</table>
+
+---
+
+<h1 id="contributing">:handshake: Contributing</h1>
+
+Contributions, issues and feature requests are welcome! Feel free to **file a new issue** on the [Project-DevForTech](https://github.com/wesleysan7os/project-devfortech/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
+
+---
+
+<h1 id="license">:scroll: License</h1>
